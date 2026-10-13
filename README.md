@@ -25,7 +25,7 @@ This project is independently developed, with its art, music, sound effects, and
 
 Follow development, share ideas, and join the community!
 
-* Discord: [Add your server invite here]
+* Discord: [https://disboard.org/server/1520155868518289639]
 * Game updates: More information coming soon.
 
 ✨ Philosophy
